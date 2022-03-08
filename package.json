@@ -1,6 +1,6 @@
 {
   "name": "conventionalcommits",
-  "version": "9.4.0",
+  "version": null,
   "description": "",
   "main": "index.js",
   "dependencies": {},
