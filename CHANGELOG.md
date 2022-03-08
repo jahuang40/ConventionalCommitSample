@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [9.1.2-7](https://github.com/jahuang40/ConventionalCommitSample/compare/v9.1.2-6...v9.1.2-7) (2022-03-08)
+
+
+### Xodo
+
+* another attempt to get automatic changelog working with custom headers ([388e8ac](https://github.com/jahuang40/ConventionalCommitSample/commit/388e8ac3c40d41a26d1ded4b6b357e0301bd7a06))
+
 ### [9.1.2-6](https://github.com/jahuang40/ConventionalCommitSample/compare/v9.1.2-5...v9.1.2-6) (2022-03-08)
 
 ### [9.1.2-5](https://github.com/jahuang40/ConventionalCommitSample/compare/v9.1.2-4...v9.1.2-5) (2022-03-08)
