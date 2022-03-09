@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [10.0.0](https://github.com/jahuang40/ConventionalCommitSample/compare/v9.1.2-7...v10.0.0) (2022-03-09)
+
+
+### Xodo Feature
+
+* testing xodo feature commit style ([3663938](https://github.com/jahuang40/ConventionalCommitSample/commit/3663938610f00358a6ffb3dd0cf50cdc18845503))
+
+
+### Xodo Actions Feature
+
+* testing xodo action feature commit style ([f2a61f4](https://github.com/jahuang40/ConventionalCommitSample/commit/f2a61f4eb5f2f454fe468c6665b3440174f066de))
+
+
+### Support
+
+* **12345:** testing support commit style ([120ddbf](https://github.com/jahuang40/ConventionalCommitSample/commit/120ddbf7c2d34fe36b943540b599a4edef02e519))
+
+
+### Xodo Fix
+
+* testing xodo fix commit style ([67b5fc2](https://github.com/jahuang40/ConventionalCommitSample/commit/67b5fc281e7226e263cb1c008b0a937494ee285d))
+
 ### [9.1.2-7](https://github.com/jahuang40/ConventionalCommitSample/compare/v9.1.2-6...v9.1.2-7) (2022-03-08)
 
 
