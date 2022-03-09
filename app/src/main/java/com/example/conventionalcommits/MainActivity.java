@@ -6,7 +6,8 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     //Comment
-    //Comment
+    //XodoFeatureTestComment
+    //XodoActionFeatureTestComment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
