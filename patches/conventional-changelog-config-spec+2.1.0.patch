@@ -1,0 +1,19 @@
+diff --git a/node_modules/conventional-changelog-config-spec/versions/2.1.0/schema.json b/node_modules/conventional-changelog-config-spec/versions/2.1.0/schema.json
+index f4fae13..710330c 100644
+--- a/node_modules/conventional-changelog-config-spec/versions/2.1.0/schema.json
++++ b/node_modules/conventional-changelog-config-spec/versions/2.1.0/schema.json
+@@ -23,7 +23,13 @@
+                 {"type": "style", "hidden": true},
+                 {"type": "refactor", "hidden": true},
+                 {"type": "perf", "hidden": true},
+-                {"type": "test", "hidden": true}
++                {"type": "test", "hidden": true},
++                {"type": "xodofeature", "section": "Xodo Feature"},
++                {"type": "xodoactionfeature", "section": "Xodo Actions Feature"},
++                {"type": "support", "section": "Support"},
++                {"type": "xodofix", "section":  "Xodo Fix"},
++                {"type": "dev", "hidden": true},
++                {"type": "analytics", "hidden": true}
+             ]
+         },
+         "preMajor": {
