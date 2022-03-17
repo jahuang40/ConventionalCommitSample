@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/jahuang40/ConventionalCommitSample/compare/v10.0.0...v1.1.0) (2022-03-17)
+
+
+### Dev
+
+* dev test if visible ([d40c002](https://github.com/jahuang40/ConventionalCommitSample/commit/d40c0026f01002e4e5a6a859a89114ccd55ef57b))
+* node modules are now properly set up ([ec18a6b](https://github.com/jahuang40/ConventionalCommitSample/commit/ec18a6bd6bc0eaf41a5587dae69c774ef627787a))
+
 ## [10.0.0](https://github.com/jahuang40/ConventionalCommitSample/compare/v9.1.2-7...v10.0.0) (2022-03-09)
 
 
