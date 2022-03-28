@@ -6,6 +6,7 @@
 
 **Xodo Features:**
 
+- Added multiplt labels [\#2](https://github.com/jahuang40/ConventionalCommitSample/pull/2) ([jahuang40](https://github.com/jahuang40))
 - added github changelog generator file [\#1](https://github.com/jahuang40/ConventionalCommitSample/pull/1) ([jahuang40](https://github.com/jahuang40))
 
 
