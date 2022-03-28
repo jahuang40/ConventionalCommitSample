@@ -1,2 +1,4 @@
 project=ConventionalCommitSample
 user=jahuang40
+future-release=1.0.0
+configure-sections={"documentation":{"prefix":"**Xodo Features:**","labels":["Xodo"]},"new_features": {"prefix": "**New features**","labels": ["enhancement"]}}
