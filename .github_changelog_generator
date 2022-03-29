@@ -1,4 +1,4 @@
 project=ConventionalCommitSample
 user=jahuang40
 future-release=1.0.0
-add-sections={"Xodo Features":{"prefix":"**Xodo Features:**","labels":["Xodo"]},"Bug Fix": {"prefix":"**Bug Fix**","labels":["buxfix"]}}
+add-sections={"Bug Fix": {"prefix":"**Bug Fix**","labels":["buxfix"]}, "Xodo Features":{"prefix":"**Xodo Features:**","labels":["Xodo"]}}

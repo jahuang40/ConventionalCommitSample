@@ -4,14 +4,14 @@
 
 [Full Changelog](https://github.com/jahuang40/ConventionalCommitSample/compare/a9483a5163c1d470333acef52fef5bccad48153e...1.0.0)
 
-**Xodo Features:**
-
-- Added multiplt labels [\#2](https://github.com/jahuang40/ConventionalCommitSample/pull/2) ([jahuang40](https://github.com/jahuang40))
-- added github changelog generator file [\#1](https://github.com/jahuang40/ConventionalCommitSample/pull/1) ([jahuang40](https://github.com/jahuang40))
-
 **Bug Fix**
 
 - Test multiple labels [\#3](https://github.com/jahuang40/ConventionalCommitSample/pull/3) ([jahuang40](https://github.com/jahuang40))
+- Added multiplt labels [\#2](https://github.com/jahuang40/ConventionalCommitSample/pull/2) ([jahuang40](https://github.com/jahuang40))
+
+**Xodo Features:**
+
+- added github changelog generator file [\#1](https://github.com/jahuang40/ConventionalCommitSample/pull/1) ([jahuang40](https://github.com/jahuang40))
 
 
 
