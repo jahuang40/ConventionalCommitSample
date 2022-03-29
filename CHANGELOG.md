@@ -1,17 +1,12 @@
 # Changelog
 
-## [1.0.0](https://github.com/jahuang40/ConventionalCommitSample/tree/1.0.0) (2022-03-28)
+## [2.0.0](https://github.com/jahuang40/ConventionalCommitSample/tree/2.0.0) (2022-03-29)
 
-[Full Changelog](https://github.com/jahuang40/ConventionalCommitSample/compare/a9483a5163c1d470333acef52fef5bccad48153e...1.0.0)
-
-**Bug Fix**
-
-- Test multiple labels [\#3](https://github.com/jahuang40/ConventionalCommitSample/pull/3) ([jahuang40](https://github.com/jahuang40))
-- Added multiplt labels [\#2](https://github.com/jahuang40/ConventionalCommitSample/pull/2) ([jahuang40](https://github.com/jahuang40))
+[Full Changelog](https://github.com/jahuang40/ConventionalCommitSample/compare/1.0.0...2.0.0)
 
 **Xodo Features:**
 
-- added github changelog generator file [\#1](https://github.com/jahuang40/ConventionalCommitSample/pull/1) ([jahuang40](https://github.com/jahuang40))
+- Test changelog since tag [\#4](https://github.com/jahuang40/ConventionalCommitSample/pull/4) ([jahuang40](https://github.com/jahuang40))
 
 
 
